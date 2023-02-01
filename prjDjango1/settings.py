@@ -20,12 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'pSgQzFSbd2JcsB2e8DJsnzATSrft8hD5FRuDePcnqFzW3wuqFdrB9q70onrL'
+SECRET_KEY = 'Jk1QXryYkhrLAngeJ0PTWCjNFqWkSEGFEbwxkDWLrTtfSYfs5tLhYjYiYQTM'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['']
+ALLOWED_HOSTS = ['https://cofee.azurewebsites.net']
 
 
 # Application definition
