@@ -25,7 +25,7 @@ SECRET_KEY = 'Jk1QXryYkhrLAngeJ0PTWCjNFqWkSEGFEbwxkDWLrTtfSYfs5tLhYjYiYQTM'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://cofee.azurewebsites.net', 'cofee.azurewebsites.net']
+ALLOWED_HOSTS = ['localhost', 'https://cofee.azurewebsites.net', 'cofee.azurewebsites.net']
 
 
 # Application definition
